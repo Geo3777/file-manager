@@ -1,0 +1,15 @@
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\bin\Debug\netcoreapp3.1\ProgramManager.exe
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\bin\Debug\netcoreapp3.1\ProgramManager.deps.json
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\bin\Debug\netcoreapp3.1\ProgramManager.runtimeconfig.json
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\bin\Debug\netcoreapp3.1\ProgramManager.runtimeconfig.dev.json
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\bin\Debug\netcoreapp3.1\ProgramManager.dll
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\bin\Debug\netcoreapp3.1\ProgramManager.pdb
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\obj\Debug\netcoreapp3.1\ProgramManager.csprojAssemblyReference.cache
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\obj\Debug\netcoreapp3.1\ProgramManager.Form1.resources
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\obj\Debug\netcoreapp3.1\ProgramManager.csproj.GenerateResource.cache
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\obj\Debug\netcoreapp3.1\ProgramManager.AssemblyInfoInputs.cache
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\obj\Debug\netcoreapp3.1\ProgramManager.AssemblyInfo.cs
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\obj\Debug\netcoreapp3.1\ProgramManager.csproj.CoreCompileInputs.cache
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\obj\Debug\netcoreapp3.1\ProgramManager.dll
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\obj\Debug\netcoreapp3.1\ProgramManager.pdb
+C:\Users\Otgon\Desktop\OtgonGeorgeLab7\ProgramManager\ProgramManager\obj\Debug\netcoreapp3.1\ProgramManager.genruntimeconfig.cache
